@@ -9,6 +9,8 @@ envoyer des e-mails ,chater...etc ..tous en Tifinagh
 = Details =
 
 voila la technique et mode d'emploi ,suivez les instructions suivantes:
-*Lien Telechargement direct:  http://tifino.googlecode.com/files/Tifino%20lite.exe
+*Lien Telechargement direct:  [http://tifino.googlecode.com/files/Tifino%20lite.exe Tifino Lite]
+
 *dans la barre des langues choisissez Afrikaans
-*tapez qq chose et oui c'est du tifinagh 
+
+*tapez quelque chose c'est du tifinagh 

@@ -17,7 +17,6 @@ envoyer des e-mails ,chater...etc ..tous en Tifinagh
 
 voila la technique et mode d'emploi ,suivez les instructions suivantes:
 
-*Lien Telechargement direct:  [http://tifino.googlecode.com/files/Tifino%20lite.exe Tifino Lite]
 
 *dans la barre des langues choisissez Afrikaans
 
@@ -26,7 +25,6 @@ voila la technique et mode d'emploi ,suivez les instructions suivantes:
 [ar]
 
 لكتابة الأمازيغية بحروفها الأصلية تيفيناغ ما عليكم سوى إتباع هذه الخطوات
-رابط مباشر :  [http://tifino.googlecode.com/files/Tifino%20lite.exe Tifino Lite]
 عند تثبيت البرنامج
 ستلاحظون وجود لغة إضافية على قائمة اللغات التي تستعملونها
 إختاروا Afrikaans 

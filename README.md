@@ -1,6 +1,8 @@
 # tifino
 Automatically exported from code.google.com/p/tifino
+
 = Tifino Lite =
+
 <i>System: Windows 8/7/Vista/XP/2k</i>
 
 ----
@@ -31,6 +33,8 @@ voila la technique et mode d'emploi ,suivez les instructions suivantes:
 ستلاحظون أنكم تكتبون بتيفيناغ
 
 ----
+Download Tifino Lite 0.7 
+http://sourceforge.net/projects/tifinolite/
 *Ibrahim Bidi*
 
 _Contact: Zizwar@googlemail.com_
